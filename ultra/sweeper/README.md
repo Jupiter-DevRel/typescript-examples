@@ -34,9 +34,3 @@ npm install
 ```bash
 npm run example
 ```
-
-### Run Sweeper Script
-
-```bash
-npm run example
-```
