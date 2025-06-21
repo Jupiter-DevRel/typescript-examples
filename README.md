@@ -10,6 +10,7 @@ Written in Typescript.
 
 - [Order & Execute Script](ultra/order-execute/README.md)
 - [Order & Execute with Referral Accounts](ultra/order-execute-with-referral-accounts/README.md)
+- [Sweeper Script](ultra/sweeper/README.md)
 
 ## Swap API
 
