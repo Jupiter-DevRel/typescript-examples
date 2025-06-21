@@ -26,7 +26,7 @@ interface ExecuteResponse {
 
 // API Client
 class UltraApiClient {
-  private readonly baseUrl: string = "https://api.jup.ag/ultra/v1";
+  private readonly baseUrl: string = "https://lite-api.jup.ag/ultra/v1";
 
   async getOrder(params: OrderParams): Promise<OrderResponse> {
     try {

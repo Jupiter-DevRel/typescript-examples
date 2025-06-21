@@ -38,7 +38,7 @@ interface ExecuteOrderResponse {
 }
 
 class TriggerApiClient {
-  private readonly baseUrl: string = "https://api.jup.ag/trigger/v1";
+  private readonly baseUrl: string = "https://lite-api.jup.ag/trigger/v1";
 
   // Create an order
   async createOrder(params: OrderParams): Promise<CreateOrderResponse> {

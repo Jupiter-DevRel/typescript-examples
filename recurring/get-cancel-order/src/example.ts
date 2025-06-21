@@ -69,7 +69,7 @@ interface ExecuteCancelOrderResponse {
 }
 
 class RecurringApiClient {
-  private readonly baseUrl: string = "https://api.jup.ag/recurring/v1";
+  private readonly baseUrl: string = "https://lite-api.jup.ag/recurring/v1";
 
   // Get recurring orders
   async getRecurringOrders(

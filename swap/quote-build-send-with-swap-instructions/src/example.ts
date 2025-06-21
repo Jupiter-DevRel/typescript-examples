@@ -46,7 +46,7 @@ interface SwapInstructionsResponse {
 
 // API Client
 class V1ApiClient {
-  private readonly baseUrl: string = "https://api.jup.ag/swap/v1";
+  private readonly baseUrl: string = "https://liteapi.jup.ag/swap/v1";
 
   async getQuote(params: QuoteParams): Promise<QuoteResponse> {
     try {

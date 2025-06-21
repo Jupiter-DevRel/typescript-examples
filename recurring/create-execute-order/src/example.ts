@@ -47,7 +47,7 @@ interface ExecuteOrderResponse {
 }
 
 class RecurringApiClient {
-  private readonly baseUrl: string = "https://api.jup.ag/recurring/v1";
+  private readonly baseUrl: string = "https://lite-api.jup.ag/recurring/v1";
 
   // Create an order
   async createOrder(params: OrderParams): Promise<CreateOrderResponse> {
