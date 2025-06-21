@@ -1,0 +1,20 @@
+{
+    "name": "ultra-sweeper",
+    "version": "1.0.0",
+    "description": "TypeScript example for Ultra Sweeper",
+    "type": "module",
+    "scripts": {
+        "example": "tsx src/example.ts"
+    },
+    "devDependencies": {
+        "@types/node": "^24.0.3",
+        "tsx": "^4.7.1"
+    },
+    "dependencies": {
+        "@jup-ag/referral-sdk": "^0.2.0",
+        "@solana/spl-token": "^0.4.13",
+        "@solana/web3.js": "^1.95.2",
+        "bs58": "^6.0.0",
+        "node-fetch": "^3.3.2"
+    }
+}

@@ -1,5 +1,5 @@
 {
-    "name": "v1-swap-quote-build-send-with-referral-accounts",
+    "name": "ultra-order-execute-with-referral-accounts",
     "version": "1.0.0",
     "description": "TypeScript example for Jupiter V1 Swap API quote -> build -> send (with referral accounts)",
     "type": "module",
