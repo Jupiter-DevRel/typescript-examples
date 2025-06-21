@@ -79,6 +79,7 @@ class V1ApiClient {
         body: JSON.stringify({
           quoteResponse,
           userPublicKey,
+          payer: userPublicKey, // This is the wallet that will pay for the swap (required)
           dynamicComputeUnitLimit, // Estimate compute units dynamically
           dynamicSlippage, // Estimate slippage dynamically
           // Priority fee optimization
