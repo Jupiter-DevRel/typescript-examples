@@ -33,7 +33,7 @@ Have an idea for a new example or improvement?
 
 1. First, **review existing issues** to see if someone else has suggested something similar
 
-2. If it's a new idea, [open an issue](https://github.com/0xbaseddann/jupiter-typescript-examples/issues/new) that includes:
+2. If it's a new idea, [open an issue](https://github.com/Jupiter-DevRel/typescript-examples/issues/new) that includes:
    - A clear description of the example or feature
    - The use case it addresses
    - Potential implementation approaches
